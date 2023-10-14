@@ -1,6 +1,6 @@
 function checkEvenOdd(N){
     if(N%2==0){
-        console.log("Even")
+        Console.log("Even")
     }
     else{
         console.log("Odd")
